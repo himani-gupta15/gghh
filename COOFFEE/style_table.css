@@ -1,0 +1,36 @@
+h2{
+    text-align: center;
+    color: darkred;
+  }
+  table{
+   width:100%;
+   border-collapse: collapse;
+  }
+  th{
+    text-align: left;
+    background-color: burlywood;
+    color:white;
+    padding: 5px;
+    font-family: "Papyrus";
+  }
+  
+  td{
+    padding:8px;
+    border-bottom:solid 3px bisque;
+    font-family: "Papyrus";
+  }
+  
+  tr:nth-child(odd){
+    background-color: beige;
+  }
+  img{
+    height:70px;
+    width: 70px;
+    border: 1px solid #ddd;
+    border-radius: 7px;
+  }
+  .name{
+    color:peru;
+    padding-left: 10px;
+    font-size: 18px;
+  }

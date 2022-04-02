@@ -1,0 +1,49 @@
+
+body{
+    background-image: url("coffee.jpg");
+    opacity: 0.3px;
+  }
+  h1{
+    background-color: cornsilk;
+    color: burlywood;
+    text-shadow: 2px 2px 5px burlywood;
+    height: 50px;
+    width:auto;
+    margin-top: 100px;
+    text-align:center;
+  }
+  p{
+    font-family: "Papyrus";
+    color: cornsilk;
+    text-shadow: 2px 2px 5px black;
+    font-weight: bold;
+    font-size:20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    top:0;
+    background-color:sienna;
+    position: fixed;
+    width: 100%;
+    text-decoration: none;
+  }
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: sandybrown;
+  }
+  
+  li a:active {
+    background-color: peachpuff;
+  }
